@@ -19,4 +19,4 @@ Patient List ,A* Admitting Module  > Reports > Admission Report /// D* Adminttin
 Procedure Code Not Found / code add ,Operation Room > TM > Orprocedure > code  > Multiple 1 ထားပေးရပါမည် ,OT,"images/or22.png,images/or11.png"
 Room accommodation Type ,Admitting Module > TM > Room > accommodation type များကို TM အောက်accommodation  တွင်ကြည့်နိုင်ပါသည် ,Admitting ,
 Customer Service CS Account  Creation ,Ha > Registration (Senior ဆိုရင် Internal Usage Group ထဲ ထည့်ပေးရပါမည် ) / H2 > Customer Service (Senior  Customer ဆိုရင် Service Incharge Group ထဲ ထည့်ပေးရပါမည် ),CS,"images/CS 1.png,images/CS 2.png"
-Order,Charges Double Error ,Report to Anzer with screen shot ,Account Receivable,"images/orderstock1.png,images/orderstock2.png"
+Order Charges Double Error ,Report to Anzer with screen shot ,Account Receivable,"images/orderstock1.png,images/orderstock2.png"
