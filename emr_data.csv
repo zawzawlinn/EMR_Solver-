@@ -17,6 +17,6 @@ Internal Usage / Inventory / reports,Pharmacy Module > Inventory > Internal Usag
 CPI Merge,General CPI > Merge CPI > Old CPI ဖြတ်မည် CPI (  use demographics click ရန်မလို  )----- New CPI ယူမည် CPI (use demographics click ပေးရပါမည် )  ထည့်ပီးပါက Merge Successful ပြပါက ရပါပီ Cannot merge ပြနေပါက Central Registration > patient registration > Old CPI  ဖြတ်မည့် CPI > Enter >D department all delete နှိပ်ပီးပါက General CPI process အတိုင်းပြန်လုပ်ပေးရပါမည် ,General CPI,"images/cpi2.png,images/cpi1.png,images/cpi3.png"
 Patient List ,A* Admitting Module  > Reports > Admission Report /// D* Admintting > Reports > Day Surgery Report ///O* Outpatint > Outpatint Register by Doctor Asia /// E * Emergency > Emergency Register By Doctor စစ်ဆေးနိုင်ပါသည် ,Patient List,
 Procedure Code Not Found / code add ,Operation Room > TM > Orprocedure > code  > Multiple 1 ထားပေးရပါမည် ,OT,"images/or22.png,images/or11.png"
-Room accommodation Type ,Admitting Module > TM > Room > accommodation type များကို TM အောက်accommodation  တွင်ကြည့်နိုင်ပါသည် ,Admitting ,
+Room accommodation Type ,Admitting Module > TM > Room > accommodation type များကို TM အောက်accommodation  တွင်ကြည့်နိုင်ပါသည် ,Admitting ,"images/type.png"
 Customer Service CS Account  Creation ,Ha > Registration (Senior ဆိုရင် Internal Usage Group ထဲ ထည့်ပေးရပါမည် ) / H2 > Customer Service (Senior  Customer ဆိုရင် Service Incharge Group ထဲ ထည့်ပေးရပါမည် ),CS,"images/CS 1.png,images/CS 2.png"
 Order Charges Double Error ,Report to Anzer with screen shot ,Account Receivable,"images/orderstock1.png,images/orderstock2.png"
