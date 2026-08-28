@@ -9,7 +9,7 @@ Nursing and PCA  Account Creation ,Ha - Nursing / H2- OPC nurse > Clinical Manag
 ",Mo Code ,
 "Radiologist , Doctor Sign Error ",Ha - Authentication User တွင် အပ်ပေးရပါမည် ,Sign Error ,"images/Sign.png"
 Procedure and Doctor Add ,"Central Scheduling > TM > Procedure > find Code > add button အောက်တင်ရှိသော Add ကိုသာ နှိပ်ရပါမည် D - Main Surgeon , Doctor -AD code , Duration - 120 ထည့်ပီး Save ပါက ရပါပီ Doctor နေရာတွင် AD code မတွေ့ပါက Central Scheduling > TM > Resources > Resource Types > Main Surgeon Click > Add > Code နေရာမှာ Doctor ရှာ Save > Resource မှာ Doctor Click > Department မှာ operation theare ရွေးပီး Save  လိုက်ရင် ရပါပီ ဗျ ",Phone ,
-OT not Scheduling ,"Central Scheduling > TM > User Department > Add > OT , Scopy , HDU ",OT,
+OT not Scheduling ,"Central Scheduling > TM > User Department > Add > OT , Scopy , HDU ",OT,"images/central.png,images/central1.png"
 Doctor Round List Reports,Admintting Module  > Reports > Daily Room Visit List / Floor Reports for Patient များတွင် ကြည့်နိုင်ပါသည် ,Admitting Module,"images/AD.png,images/AD1.png"
 Bill payment error Cashier amount different,Report to Anzer with screen shot ,Account Receivable,"images/zero.png"
 Doctor Active or inactive ,Account Receivable > TM > Doctor > active or in active စစ်ဆေးနိုင်ပါသည် ,Account Receivable ,"images/Doctor.png"
