@@ -56,7 +56,7 @@ CSV_FILE = "emr_data.csv"
 
 def load_data():
   if os.path.exists(CSV_FILE):
-    return pd.read_csv(CSV_FILE,, on_bad_lines='skip', engine='python')
+    return pd.read_csv(CSV_FILE, on_bad_lines='skip', engine='python')
   else:
     return pd.DataFrame(
         columns=["Error Message", "Solution", "Category", "Images"]
